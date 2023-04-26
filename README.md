@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Harsh Singh Lohiya</h1>
+#### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
+<h1 align="center">I'm Harsh Singh Lohiya!👋🫡</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
 ![news24](https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif)
