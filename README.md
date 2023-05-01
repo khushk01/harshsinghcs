@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshsinghcs](https://github.com/harshsinghcs)
 
-- 📫 How to reach me **harshsinghcs01@gmail.com**
+- 📫 How to reach me Just you have to contribution in my repo or mail me on **harshsinghcs01@gmail.com**
 
 - ⚡ Fun fact **I'm an Sports Person🥋🤸‍♂️**
 
