@@ -47,3 +47,6 @@
 
 
 <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshsinghcs&show_icons=true&locale=en&layout=compact" alt="harshsinghcs" width=430/>
+
+## 🔥 Watch a Snake 🐍 eating my Contribution Graph 😎 :
+![snake gif](https://github.com/harshsinghcs/harshsinghcs/blob/output/github-contribution-grid-snake.gif)
