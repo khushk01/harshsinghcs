@@ -20,7 +20,8 @@
 - 📫 How to reach me Just you have to contribution in my repo or mail me on **harshsinghcs01@gmail.com**
 
 - ⚡ Fun fact **I'm an Sports Person🥋🤸‍♂️**
-<h2>I am inspired by quote "If you want to shine like a sun, first burn like a sun." -A. P. J. Abdul Kalam🙏</h2>
+<h2>I am inspired by quote "Failure will never overtake me if my determination to succeed is strong enough."
+ -A. P. J. Abdul Kalam🙏</h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/115187902/232976777-c6e47130-eb2f-44ab-8d0a-ba3775023888.gif"/>
 
