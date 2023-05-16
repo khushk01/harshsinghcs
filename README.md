@@ -2,6 +2,7 @@
 
 <h1 align="center">I'm Harsh Singh Lohiya!👋🫡</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
+<p align="center"> <a href="https://twitter.com/harshsi41733080" target="blank"><img src="https://img.shields.io/twitter/follow/harshsi41733080?logo=twitter&style=for-the-badge" alt="harshsi41733080" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif" width="635" height="365"><img  src="https://i.pinimg.com/originals/be/3c/3e/be3c3ecd2643d15b798cc1d2ec1d3b26.jpg" alt="Alt Text" height="365" width="180">
 
@@ -10,8 +11,6 @@
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="110%"src="https://github-profile-trophy.vercel.app/?username=harshsinghcs&theme=dracula&row=1&column=8" alt="harshsinghcs" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsinghcs&label=Profile%20views&color=0e75b6&style=flat" alt="harshsinghcs" /> </p>
-
-<p align="left"> <a href="https://twitter.com/harshsi41733080" target="blank"><img src="https://img.shields.io/twitter/follow/harshsi41733080?logo=twitter&style=for-the-badge" alt="harshsi41733080" /></a> </p>
 
 - 🌱 I’m currently learning **CSS JAVA & DSA**
 
