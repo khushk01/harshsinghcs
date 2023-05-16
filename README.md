@@ -1,4 +1,5 @@
-#### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=harshsinghcs&label=Profile%20views&color=0e75b6&style=flat" alt="harshsinghcs"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="left"/> </p>
 
 <h1 align="center">I'm Harsh Singh Lohiya!👋🫡</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
@@ -9,8 +10,6 @@
  Hi there! I'm Harsh Singh Lohiya, a computer science student b. tech 3rd year, passionate in software development. I believe that technology can be a powerful force for positive change and am constantly exploring new ways to leverage it for good. As a GitHub user, I am committed to contributing to open-source projects and sharing my knowledge and expertise with the community. I am skilled in HTML, C, CPP, JAVA, and have experience working on JSD project. When I'm not coding, you can find me On insta harsh <a href="https://instagram.com/harsh_singh_lohiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_singh_lohiya" height="30" width="40" /></a>. I also enjoy attending tech meetups and conferences and connecting with like-minded individuals. If you'd like to collaborate on a project or have any questions, feel free to reach out to me! <a href="https://linkedin.com/in/harsh singh lohiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh singh lohiya" height="30" width="40" /></a> . Let's build something great together!</p>
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="110%"src="https://github-profile-trophy.vercel.app/?username=harshsinghcs&theme=dracula&row=1&column=8" alt="harshsinghcs" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsinghcs&label=Profile%20views&color=0e75b6&style=flat" alt="harshsinghcs" /> </p>
 
 - 🌱 I’m currently learning **CSS JAVA & DSA**
 
