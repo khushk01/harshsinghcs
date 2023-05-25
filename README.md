@@ -18,7 +18,7 @@
 - 📫 How to reach me Just you have to contribution in my repo or mail me on **harshsinghcs01@gmail.com**
 
 - ⚡ Fun fact **I'm an Sports Person🥋🤸‍♂️**
-<h2>I am inspired by quote "Failure will never overtake me if my determination to succeed is strong enough."
+<h2>I am inspired by quote "“Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck."
  -A. P. J. Abdul Kalam🙏</h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/115187902/232976777-c6e47130-eb2f-44ab-8d0a-ba3775023888.gif"/>
